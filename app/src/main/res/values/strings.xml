@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubFollowers</string>
+    <string name="navigation_back">Get Back</string>
+    <string name="name_user">name of the user appear here</string>
+</resources>
